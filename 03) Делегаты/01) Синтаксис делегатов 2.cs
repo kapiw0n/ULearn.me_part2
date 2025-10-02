@@ -1,0 +1,1 @@
+delegate bool TryGet<T1,T2>(string input, Action<string> tellUser, out int age);
